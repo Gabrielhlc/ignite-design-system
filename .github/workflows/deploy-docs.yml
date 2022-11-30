@@ -21,7 +21,7 @@ jobs:
 
       - run: npm run build
         env: 
-          TURBO_TOKEN: Uj38HPnYx7cik1DcI71WqyPR
+          TURBO_TOKEN: jEtMBZYYOt7K9YM58HKYVPHA
           TURBO_TEAM: gabrielhlc-team
 
       - name: Deploy storybook
